@@ -1,1 +1,2 @@
 # waiter-tip-analysis
+Tipping waiters for serving food depends on many factors like the type of restaurant, how many people you are with, how much amount you pay as your bill, etc. Waiter Tips analysis is one of the popular data science case studies where we need to predict the tips given to a waiter for serving the food in a restaurant. So if you want to learn how to solve this case study, this article is for you. In this article, I will take you through the task of waiter tips prediction with machine learning using Python.
